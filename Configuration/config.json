@@ -1,10 +1,10 @@
 {
-    "token": "",
+    "token": "NTY4OTA0MjUzODAwNzEwMTU3.XLqJWg.Tb1lGMr2ZRrN_fdgme87GkTIoTI",
     "version": "7.3",
     "branch": "master",
-    "prefix": "-",
+    "prefix": "!",
     "hosting_port": "80",
     "maintainers": ["maintainers", "go", "here"],
-    "creator": "Ken#4234",
+    "creator": "skQuery#7086",
     "fuckers": ""
 }
